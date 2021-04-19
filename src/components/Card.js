@@ -5,7 +5,7 @@ function Card(props) {
        let pBreed = [];
 
     props.breeds.map((breed) => {
-        if(breed.id === props.Id) {
+        if(breed.id == props.Id) {
              pBreed = breed
         }
     })
