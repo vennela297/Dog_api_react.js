@@ -1,4 +1,4 @@
-DEMO THE APP
+DEMO THE APP:
 DEPLOYED LINK - https://nifty-nobel-29ff0a.netlify.app/
  
  step 1 - npm i
