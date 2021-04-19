@@ -1,4 +1,14 @@
  step 1 - npm i
+ 
+ APP SCREENSHOTS 
+ ![WhatsApp Image 2021-04-19 at 9 36 17 PM](https://user-images.githubusercontent.com/72748396/115268433-e324d280-a157-11eb-8645-e704461d1f3d.jpeg)
+ 
+
+![WhatsApp Image 2021-04-19 at 9 36 21 PM](https://user-images.githubusercontent.com/72748396/115268491-f3d54880-a157-11eb-98c2-9ac12045b445.jpeg)
+
+
+ ![WhatsApp Image 2021-04-19 at 9 36 25 PM](https://user-images.githubusercontent.com/72748396/115268549-02236480-a158-11eb-9838-c2f069c5b741.jpeg)
+
 
 
 # Getting Started with Create React App
